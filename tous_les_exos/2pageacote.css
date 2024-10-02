@@ -1,0 +1,40 @@
+p#p1{
+    text-align: center;
+}
+
+#tiret {
+    border-style: dotted;
+}
+
+#divagauche {
+    position: fixed;
+    up: 0;
+    left: 0;
+    width: 49%;
+    border: 3px solid #73AD21;
+    border-style: dotted;
+}
+
+#divadroite {
+    position: fixed;
+    up: 0;
+    right: 0;
+    width: 49%;
+    border: 3px solid #73AD21;
+}
+
+.myDiv {
+    border: 5px outset red;
+}
+
+a{
+    text-decoration: none; /* plus de souligner*/
+    color: black;
+    display: block; /* permet a la cellule entière d'être cliquer wi*/
+    width: 100%; 
+    height: 100%;
+}
+
+a:hover {
+    background-color: #73AD21;
+}

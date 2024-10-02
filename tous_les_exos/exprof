@@ -1,0 +1,32 @@
+<html>
+    <style> 
+    table, th ,td {
+        border: 1px solid black;
+    }
+    </style>
+
+    <body> 
+        <h2> 
+            Tableau       </h2>
+
+            <tr> 
+                <th>Prenom<th>
+                <th> Age</th>
+                <th> Ville / dp </th>
+            </tr>
+
+            <tr> 
+                <td>
+                    Theo
+                </td>
+                <td>
+                    19
+                </td>
+                <td>
+                    Mdm
+                </td>
+            </tr>
+    </body>
+
+
+</html>
